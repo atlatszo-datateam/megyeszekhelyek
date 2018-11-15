@@ -60,6 +60,33 @@ aside h2 {
   margin-bottom: 20px;
 }
 
+.city-map {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.city-then,
+.city-now {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.city-now {
+  opacity: 0;
+}
+
+.city-then.szeged {
+  background: url('./images/city_then_szeged.png') no-repeat;
+  background-size: contain;
+}
+
+.city-now.szeged {
+  background: url('./images/city_now_szeged.png') no-repeat;
+  background-size: contain;
+}
+
 .population p {
   margin: 10px 0;
 }
@@ -82,4 +109,21 @@ aside h2 {
 
 .population-now .population-figure {
   background: url('./images/population_figure_now.svg') bottom center no-repeat;
+}
+
+/* svg */
+.st3 {
+  fill:#9e8e7e;
+  transition: fill .3s;
+  cursor: pointer;
+}
+
+.st3:hover,
+.st3.selected {
+  fill: #c0262c;
+}
+
+
+.social-buttons {
+  visibility: hidden;
 }

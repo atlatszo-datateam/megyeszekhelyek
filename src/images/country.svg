@@ -53,8 +53,6 @@
 	
 		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#D9D8CC;stroke:#FFFFFF;stroke-width:0.6654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.8637;}
 	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.4436;stroke-miterlimit:10;}
-	.st3{fill:#9E8E7E;}
-	.st4{fill:#C0262C;}
 	.st5{font-family:'MyriadPro-Regular';}
 	.st6{font-size:12px;}
 	.st7{fill:#C7B299;}
@@ -88,155 +86,95 @@
    class="st3"
    points="144.14,234.61 150.64,230.86 150.64,223.36 144.14,219.61 137.65,223.36 137.65,230.86 "
    id="polygon14"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="170.56,213.48 177.06,209.73 177.06,202.23 170.56,198.48 164.07,202.23 164.07,209.73 "
    id="polygon16"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
-   class="st4"
+   class="st3"
    points="241.71,223.07 248.21,219.32 248.21,211.82 241.71,208.07 235.22,211.82 235.22,219.32 "
    id="polygon18"
-   style="fill:#c0262c"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="218.49,174.01 224.98,170.26 224.98,162.76 218.49,159.01 211.99,162.76 211.99,170.26 "
    id="polygon20"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="230.78,129.89 237.27,126.14 237.27,118.64 230.78,114.89 224.28,118.64 224.28,126.14 "
    id="polygon22"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="252.16,99.66 258.65,95.91 258.65,88.41 252.16,84.66 245.66,88.41 245.66,95.91 "
    id="polygon24"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="224.98,84.17 231.48,80.42 231.48,72.92 224.98,69.17 218.49,72.92 218.49,80.42 "
    id="polygon26"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="271.57,84.66 278.07,80.91 278.07,73.41 271.57,69.66 265.08,73.41 265.08,80.91 "
    id="polygon28"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="319.37,91.67 325.87,87.92 325.87,80.42 319.37,76.67 312.88,80.42 312.88,87.92 "
    id="polygon30"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="313.6,123.98 320.09,120.23 320.09,112.73 313.6,108.98 307.1,112.73 307.1,120.23 "
    id="polygon32"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="288.9,188.01 295.39,184.26 295.39,176.76 288.9,173.01 282.4,176.76 282.4,184.26 "
    id="polygon34"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="123.38,213.48 129.87,209.73 129.87,202.23 123.38,198.48 116.88,202.23 116.88,209.73 "
    id="polygon36"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="73.49,178.09 79.98,174.34 79.98,166.84 73.49,163.09 66.99,166.84 66.99,174.34 "
    id="polygon38"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="63.78,148.86 70.28,145.11 70.28,137.61 63.78,133.86 57.29,137.61 57.29,145.11 "
    id="polygon40"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="118.34,114.89 124.83,111.14 124.83,103.64 118.34,99.89 111.84,103.64 111.84,111.14 "
    id="polygon42"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="128.29,159.01 134.79,155.26 134.79,147.76 128.29,144.01 121.8,147.76 121.8,155.26 "
    id="polygon44"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="154.91,150.77 161.4,147.02 161.4,139.52 154.91,135.77 148.41,139.52 148.41,147.02 "
    id="polygon46"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="154.05,124.23 160.54,120.48 160.54,112.98 154.05,109.23 147.55,112.98 147.55,120.48 "
    id="polygon48"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
 <polygon
    class="st3"
    points="187.96,129.89 194.46,126.14 194.46,118.64 187.96,114.89 181.47,118.64 181.47,126.14 "
    id="polygon50"
-   style="fill:#9e8e7e"
    transform="translate(-39.385578,-43.85)" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </svg>

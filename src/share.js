@@ -8,22 +8,16 @@ const tags = ''
 function shareOnFacebook () {
   const popup = window.open(`https://www.facebook.com/sharer/sharer.php?u=${URL}`, 'facebook-popup', windowSize);
   if (popup.focus) popup.focus()
-
-  return false
 }
 
 function shareOnTumblr () {
   const popup = window.open(`https://tumblr.com/widgets/share/tool?canonicalUrl=${URL}&posttype=link`, 'tumblr-popup', windowSize)
   if (popup.focus) popup.focus()
-
-  return false
 }
 
 function shareOnTwitter () {
   const popup = window.open(`https://twitter.com/share?url=${URL}`, 'twitter-popup', windowSize);
   if (popup.focus) popup.focus()
-
-  return false
 }
 
 facebookShareButton.addEventListener('click', shareOnFacebook)
