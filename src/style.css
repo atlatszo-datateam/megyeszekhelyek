@@ -1,0 +1,85 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+.population strong {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 32px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+hr {
+  height: 2px;
+  margin: 15px 0;
+  border: 0;
+  background: #d0d0d0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1240px;
+  margin: 30px auto;
+}
+
+.inline {
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  width: 63.2258%;
+}
+
+main h2 {
+  font-size: 24px;
+}
+
+aside {
+  width: 32.258%;
+}
+
+aside h2 {
+
+}
+
+.description {
+  margin-bottom: 20px;
+}
+
+.population p {
+  margin: 10px 0;
+}
+
+.population strong {
+  font-size: 32px;
+}
+
+.population strong span {
+  font-size: 18px;
+}
+
+.population-figure {
+  display: inline-block;
+  width: 13px;
+  height: 37px;
+  margin-right: 5px;
+  background: url('./images/population_figure_then.svg') bottom center no-repeat;
+}
+
+.population-now .population-figure {
+  background: url('./images/population_figure_now.svg') bottom center no-repeat;
+}
