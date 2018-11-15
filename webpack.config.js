@@ -1,7 +1,9 @@
+const webpack = require('webpack')
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 const CleanWebpackPlugin = require('clean-webpack-plugin')
+const HtmlWebpackInlineSVGPlugin = require('html-webpack-inline-svg-plugin')
 
 module.exports = {
   entry: './src/index.js',
@@ -44,11 +46,19 @@ module.exports = {
       inject: false,
       hash: true,
       template: './src/index.html',
-      filename: 'index.html',
+      filename: '../index.html',
       minify: true
     }),
+    new HtmlWebpackInlineSVGPlugin(),
     new MiniCssExtractPlugin({
       filename: 'style.[contenthash].css'
+    }),
+    new webpack.ProvidePlugin({
+      $: 'jquery',
+      jQuery: 'jquery'
+    }),
+    new webpack.ProvidePlugin({
+      'map': 'map'
     })
   ],
   devtool: 'inline-source-map'
