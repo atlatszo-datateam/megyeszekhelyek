@@ -65,16 +65,12 @@ aside h2 {
 }
 
 .population strong {
-  display: inline-block;
+  display: block;
   font-size: 18px;
 }
 
 .population strong span {
   font-size: 32px;
-}
-
-.population-container {
-  display: inline;
 }
 
 .population-figure {
@@ -110,6 +106,8 @@ aside h2 {
   position: relative;
   width: 100%;
   height: 100%;
+  max-width: 800px;
+  max-height: 600px;
 }
 
 .city-then,
