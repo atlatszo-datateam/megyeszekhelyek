@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30px"
+   height="30px"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="instagram.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="24.135911"
+     inkscape:cx="12.905939"
+     inkscape:cy="15.083124"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs3017">
+    <radialGradient
+       id="SVGID_1_"
+       cx="778.1264"
+       cy="379.06781"
+       r="60.988701"
+       fx="759.31409"
+       fy="376.33511"
+       gradientTransform="matrix(0.6534,-0.757,0.6147,0.5306,36.6772,766.9808)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#F9ED32"
+         id="stop1091" />
+      <stop
+         offset="6.147723e-02"
+         style="stop-color:#F8D939"
+         id="stop1093" />
+      <stop
+         offset="0.1874"
+         style="stop-color:#F5A54D"
+         id="stop1095" />
+      <stop
+         offset="0.365"
+         style="stop-color:#F0536C"
+         id="stop1097" />
+      <stop
+         offset="0.4486"
+         style="stop-color:#EE2A7B"
+         id="stop1099" />
+      <stop
+         offset="0.5994"
+         style="stop-color:#9E2AA7"
+         id="stop1101" />
+      <stop
+         offset="0.7418"
+         style="stop-color:#5B2ACD"
+         id="stop1103" />
+      <stop
+         offset="0.86"
+         style="stop-color:#2A2AE8"
+         id="stop1105" />
+      <stop
+         offset="0.9496"
+         style="stop-color:#0B2AF9"
+         id="stop1107" />
+      <stop
+         offset="1"
+         style="stop-color:#002AFF"
+         id="stop1109" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata3020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-773.04533,-355.48581)"
+       id="g1128">
+      <radialGradient
+         id="radialGradient3006"
+         cx="778.1264"
+         cy="379.06781"
+         r="60.988701"
+         fx="759.31409"
+         fy="376.33511"
+         gradientTransform="matrix(0.6534,-0.757,0.6147,0.5306,36.6772,766.9808)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           style="stop-color:#F9ED32"
+           id="stop2986" />
+        <stop
+           offset="6.147723e-02"
+           style="stop-color:#F8D939"
+           id="stop2988" />
+        <stop
+           offset="0.1874"
+           style="stop-color:#F5A54D"
+           id="stop2990" />
+        <stop
+           offset="0.365"
+           style="stop-color:#F0536C"
+           id="stop2992" />
+        <stop
+           offset="0.4486"
+           style="stop-color:#EE2A7B"
+           id="stop2994" />
+        <stop
+           offset="0.5994"
+           style="stop-color:#9E2AA7"
+           id="stop2996" />
+        <stop
+           offset="0.7418"
+           style="stop-color:#5B2ACD"
+           id="stop2998" />
+        <stop
+           offset="0.86"
+           style="stop-color:#2A2AE8"
+           id="stop3000" />
+        <stop
+           offset="0.9496"
+           style="stop-color:#0B2AF9"
+           id="stop3002" />
+        <stop
+           offset="1"
+           style="stop-color:#002AFF"
+           id="stop3004" />
+      </radialGradient>
+      <path
+         style="fill:url(#SVGID_1_)"
+         inkscape:connector-curvature="0"
+         d="m 803,380.4 c 0,2.8 -2.3,5.1 -5.1,5.1 h -19.7 c -2.8,0 -5.1,-2.3 -5.1,-5.1 v -19.7 c 0,-2.8 2.3,-5.1 5.1,-5.1 h 19.7 c 2.8,0 5.1,2.3 5.1,5.1 z"
+         id="path1112" />
+      <g
+         id="g1126">
+        <g
+           id="g1116">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             d="m 792.8,382.5 h -9.6 c -4.2,0 -7.7,-3.4 -7.7,-7.7 v -8.4 c 0,-4.2 3.5,-7.7 7.7,-7.7 h 9.6 c 4.2,0 7.7,3.4 7.7,7.7 v 8.4 c 0,4.2 -3.5,7.7 -7.7,7.7 z m -9.6,-22.1 c -3.3,0 -6,2.7 -6,6 v 8.4 c 0,3.3 2.7,6 6,6 h 9.6 c 3.3,0 6,-2.7 6,-6 v -8.4 c 0,-3.3 -2.7,-6 -6,-6 z"
+             id="path1114" />
+        </g>
+        <g
+           id="g1120">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             d="m 788,377.4 c -3.8,0 -6.8,-3.1 -6.8,-6.8 0,-3.8 3.1,-6.8 6.8,-6.8 3.8,0 6.8,3.1 6.8,6.8 0,3.7 -3,6.8 -6.8,6.8 z m 0,-12 c -2.8,0 -5.1,2.3 -5.1,5.1 0,2.8 2.3,5.1 5.1,5.1 2.8,0 5.1,-2.3 5.1,-5.1 0,-2.8 -2.3,-5.1 -5.1,-5.1 z"
+             id="path1118" />
+        </g>
+        <g
+           id="g1124">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             d="m 796.2,363.9 c 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4 0,-0.8 0.6,-1.4 1.4,-1.4 0.7,0 1.4,0.7 1.4,1.4 z"
+             id="path1122" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

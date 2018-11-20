@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Megyeszékhelyek</title>
+  <title>Növekvő városok</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- OPENGRAPH SHARE -->
@@ -11,11 +11,11 @@
   <meta property="og:url" content="https://atlo.team">
   <meta property="og:title" content="Nertravel">
   <meta property="og:locale" content="hu_HU">
-  <meta property="og:image" content="https://atlo.team/dist/<%= require('./images/share/cover-facebook.jpg')%>">
+  <meta property="og:image" content="https://atlo.team/dist/<%= require('./images/share/cover_facebook.jpg')%>">
   <meta property="article:publisher" content="https://www.facebook.com/atloteam/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@AtloTeam">
-  <meta name="twitter:image" content="https://atlo.team/dist/<%= require('./images/share/cover-twitter.jpg')%>">
+  <meta name="twitter:image" content="https://atlo.team/dist/<%= require('./images/share/cover_twitter.jpg')%>">
   <meta property="fb:app_id" content="345585816190715">
   <meta property="og:description" content="">
   <meta name="description" content="">
@@ -26,6 +26,17 @@
   <div class="container">
     <h1>Növekvő városok</h1>
     <p class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id omnis molestiae, voluptas consequuntur fugit esse quam cupiditate explicabo harum repudiandae asperiores vel debitis sapiente fugiat dignissimos aliquam praesentium nulla! Iste accusantium officiis maiores omnis dolores facere quia corporis nulla odit aut impedit, ex quis, deserunt iusto cumque est porro saepe repudiandae fugit, sint dicta debitis optio aspernatur velit! Quidem, quisquam quos cum porro non repudiandae asperiores, nulla dignissimos, quibusdam vel labore veniam quae. Nam, mollitia placeat eaque commodi officiis reiciendis!</p>
+    <div class="social-buttons">
+      <button type="button" class="social-button facebook">
+        <img src="dist/<%= require('./images/share/facebook.svg') %>" alt="facebook megosztás">
+      </button>
+      <button type="button" class="social-button tumblr">
+        <img src="dist/<%= require('./images/share/instagram.svg') %>" alt="tumblr megosztás">
+      </button>
+      <button type="button" class="social-button twitter">
+        <img src="dist/<%= require('./images/share/twitter.svg') %>" alt="twitter megosztás">
+      </button>
+    </div>
     <div class="inline">
       <main class="city">
         <!-- <h2>Szeged</h2> -->
@@ -225,13 +236,23 @@
         </div>
       </aside>
     </div>
-    <footer></footer>
-    <div class="social-buttons">
-      <button type="button" class="social-button facebook"><img src="dist/ead6fc3ed3851a05179a433963d2a702.svg" alt="facebook megosztás"></button>
-      <button type="button" class="social-button tumblr"><img src="dist/10270205895bae8d1bcfb66aa621cbc2.svg" alt="tumblr megosztás"></button>
-      <button type="button" class="social-button twitter"><img src="dist/c2b5521d5d9bf6b3f671884cbaf0adca.svg" alt="twitter megosztás"></button>
-    </div>
   </div>
+  <footer>
+    <div class="container">
+      <div class="impressum">
+        <a href="https://atlatszo.hu" target="_blank" rel="noopener">
+          <img src="dist/<%= require('./images/atlatszo_logo.png') %>" alt="Átlátszó">
+        </a>
+        <p>Projektvezető, ötlet: Bátorfy Attila</p>
+        <p>Programozás: Horváth László</p>
+        <p>Grafikai terv: Mikola Bence</p>
+        <p>Térkép forrás: Mapire</p>
+        <p>Demográfiai adatok: library.hungaricana.hu, Wikipédia</p>
+        <p>Módszertan és forráslinkek</p>
+        <p>ATL002</p>
+      </div>
+    </div>
+  </footer>
   <script src="<%= htmlWebpackPlugin.files.chunks.main.entry %>"></script>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48920123-31"></script>

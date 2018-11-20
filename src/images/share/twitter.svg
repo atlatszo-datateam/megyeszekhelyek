@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30px"
+   height="30px"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="twitter.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="24.135911"
+     inkscape:cx="12.905939"
+     inkscape:cy="15.083124"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs3017">
+    <radialGradient
+       id="SVGID_1_"
+       cx="778.1264"
+       cy="379.06781"
+       r="60.988701"
+       fx="759.31409"
+       fy="376.33511"
+       gradientTransform="matrix(0.6534,-0.757,0.6147,0.5306,36.6772,766.9808)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#F9ED32"
+         id="stop1091" />
+      <stop
+         offset="6.147723e-02"
+         style="stop-color:#F8D939"
+         id="stop1093" />
+      <stop
+         offset="0.1874"
+         style="stop-color:#F5A54D"
+         id="stop1095" />
+      <stop
+         offset="0.365"
+         style="stop-color:#F0536C"
+         id="stop1097" />
+      <stop
+         offset="0.4486"
+         style="stop-color:#EE2A7B"
+         id="stop1099" />
+      <stop
+         offset="0.5994"
+         style="stop-color:#9E2AA7"
+         id="stop1101" />
+      <stop
+         offset="0.7418"
+         style="stop-color:#5B2ACD"
+         id="stop1103" />
+      <stop
+         offset="0.86"
+         style="stop-color:#2A2AE8"
+         id="stop1105" />
+      <stop
+         offset="0.9496"
+         style="stop-color:#0B2AF9"
+         id="stop1107" />
+      <stop
+         offset="1"
+         style="stop-color:#002AFF"
+         id="stop1109" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata3020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(-734.55161,-355.5484)"
+       id="g1083">
+      <g
+         id="g1073">
+        <path
+           style="fill:#7bc5f8"
+           inkscape:connector-curvature="0"
+           d="m 764.5,380.4 c 0,2.8 -2.3,5.1 -5.1,5.1 h -19.7 c -2.8,0 -5.1,-2.3 -5.1,-5.1 v -19.7 c 0,-2.8 2.3,-5.1 5.1,-5.1 h 19.7 c 2.8,0 5.1,2.3 5.1,5.1 z"
+           id="path1071" />
+      </g>
+      <g
+         id="g1081">
+        <polygon
+           style="fill:#ffffff"
+           points=""
+           id="polygon1075" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 759.1,364.5 c -0.5,0.1 -0.8,0.1 -0.8,0.1 v -0.1 c 0.4,-0.3 1.5,-1.4 1.6,-1.9 0.1,-0.2 0,-0.3 0,-0.3 l -1.4,0.6 -1.1,0.5 v 0 c -0.8,-0.8 -2,-1.4 -3.3,-1.4 -2.4,0 -4.3,1.7 -4.3,3.8 0,0.4 0.1,1.1 0.2,1.4 0,0.1 0,-0.1 0,0 -1.5,0 -3.5,-0.7 -5.2,-1.6 -3.4,-1.7 -3.7,-3 -3.7,-3 -0.5,0.6 -0.8,2.5 -0.3,4 0.4,1 1.6,1.8 1.6,1.8 v 0 c 0,0 -0.5,0 -1.1,-0.2 -0.6,-0.2 -0.8,-0.4 -0.8,-0.4 -0.3,0.8 0.3,2.3 1.5,3.3 0.7,0.6 1.9,1 1.9,1 l -1.9,0.1 c -0.1,1.9 4,3 4,3 v 0 c -1.2,0.9 -2.6,1.5 -4.1,1.5 -0.8,0 -1.5,-0.1 -2.2,-0.3 2,1.6 4.5,2.7 7.2,2.6 7.2,-0.4 11.3,-6.6 11.5,-12.7 v 0 c 0,0 0.3,-0.2 1.1,-0.9 0.7,-0.7 1.2,-1.6 1.2,-1.6 0,0 -1.1,0.5 -1.6,0.7 z"
+           id="path1077" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 760,362.3 c 0,0.2 0,0 0,0 z"
+           id="path1079" />
+      </g>
+    </g>
+  </g>
+</svg>

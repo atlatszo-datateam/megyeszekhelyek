@@ -94,7 +94,18 @@ aside {
 }
 
 .social-buttons {
-  visibility: hidden;
+  margin: 25px 0;
+  text-align: right;
+}
+
+.social-button {
+  height: 31px;
+  width: 31px;
+  margin-left: 5px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  padding: 0;
 }
 
 .city-map {
@@ -185,4 +196,31 @@ input[type=range]:focus::-ms-fill-lower {
 }
 input[type=range]:focus::-ms-fill-upper {
   background: #808080;
+}
+
+footer {
+  margin-top: 100px;
+  background: #857d7a;
+  padding: 20px 0;
+}
+
+footer .container {
+  display: flex;
+  justify-content: right;
+}
+
+footer p {
+  color: white;
+  font-weight: bold;
+}
+
+footer img {
+  height: 40px;
+}
+
+footer .impressum {
+  position: relative;
+  right: 0;
+  width: 43.75%;
+  min-width: 300px;
 }

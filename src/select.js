@@ -56,8 +56,8 @@ function changeCity (cityName) {
     DOM.fadeIn(DOM.setAttribute(populationNowNumber, 'innerHTML', Helpers.formatNumber(population.now)))
     populate(populationThen, population.then)
     populate(populationNow, population.now)
-    DOM.fadeIn(DOM.setAttribute(cityThen, 'src', `dist/${selectedCity.images.then}`))
-    DOM.fadeIn(DOM.setAttribute(cityNow, 'src', `dist/${selectedCity.images.now}`), 0, DOM.getStyle(cityNow, 'opacity'))
+    DOM.setAttribute(cityThen, 'src', `dist/${selectedCity.images.then}`)
+    DOM.setAttribute(cityNow, 'src', `dist/${selectedCity.images.now}`), 0, DOM.getStyle(cityNow, 'opacity')
   }
 }
 
