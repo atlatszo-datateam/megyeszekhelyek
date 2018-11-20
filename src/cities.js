@@ -1,16 +1,48 @@
-import now_szeged from './images/cities/now_szeged.png'
-import then_szeged from './images/cities/then_szeged.png'
-import now_szolnok from './images/cities/now_szolnok.png'
-import then_szolnok from './images/cities/then_szolnok.png'
-import now_gyor from './images/cities/now_gyor.png'
-import then_gyor from './images/cities/then_gyor.png'
+import szeged_1780 from './images/cities/szeged_1780.png'
+import szeged_2018 from './images/cities/szeged_2018.png'
+import bekescsaba_1780 from './images/cities/bekescsaba_1780.png'
+import bekescsaba_2018 from './images/cities/bekescsaba_2018.png'
+import budapest_1780 from './images/cities/budapest_1780.png'
+import budapest_2018 from './images/cities/budapest_2018.png'
+import debrecen_1780 from './images/cities/debrecen_1780.png'
+import debrecen_2018 from './images/cities/debrecen_2018.png'
+import eger_1780 from './images/cities/eger_1780.png'
+import eger_2018 from './images/cities/eger_2018.png'
+import gyor_1780 from './images/cities/gyor_1780.png'
+import gyor_2018 from './images/cities/gyor_2018.png'
+import kaposvar_1780 from './images/cities/kaposvar_1780.png'
+import kaposvar_2018 from './images/cities/kaposvar_2018.png'
+import kecskemet_1780 from './images/cities/kecskemet_1780.png'
+import kecskemet_2018 from './images/cities/kecskemet_2018.png'
+import miskolc_1780 from './images/cities/miskolc_1780.png'
+import miskolc_2018 from './images/cities/miskolc_2018.png'
+import nyiregyhaza_1780 from './images/cities/nyiregyhaza_1780.png'
+import nyiregyhaza_2018 from './images/cities/nyiregyhaza_2018.png'
+import pecs_1780 from './images/cities/pecs_1780.png'
+import pecs_2018 from './images/cities/pecs_2018.png'
+import salgotarjan_1780 from './images/cities/salgotarjan_1780.png'
+import salgotarjan_2018 from './images/cities/salgotarjan_2018.png'
+import szekszard_1780 from './images/cities/szekszard_1780.png'
+import szekszard_2018 from './images/cities/szekszard_2018.png'
+import szekesfehervar_1780 from './images/cities/szekesfehervar_1780.png'
+import szekesfehervar_2018 from './images/cities/szekesfehervar_2018.png'
+import szolnok_1780 from './images/cities/szolnok_1780.png'
+import szolnok_2018 from './images/cities/szolnok_2018.png'
+import szombathely_1780 from './images/cities/szombathely_1780.png'
+import szombathely_2018 from './images/cities/szombathely_2018.png'
+import tatabanya_1780 from './images/cities/tatabanya_1780.png'
+import tatabanya_2018 from './images/cities/tatabanya_2018.png'
+import veszprem_1780 from './images/cities/veszprem_1780.png'
+import veszprem_2018 from './images/cities/veszprem_2018.png'
+import zalaegerszeg_1780 from './images/cities/zalaegerszeg_1780.png'
+import zalaegerszeg_2018 from './images/cities/zalaegerszeg_2018.png'
 
 export default [
   {
     name: 'Szeged',
     images: {
-      then: then_szeged,
-      now: now_szeged
+      then: szeged_1780,
+      now: szeged_2018
     },
     population: {
       then:  20679,
@@ -19,7 +51,10 @@ export default [
   },
   {
     name: 'Békéscsaba',
-    slug: 'bekescsaba',
+    images: {
+      then: bekescsaba_1780,
+      now: bekescsaba_2018
+    },
     population: {
       then:  9680,
       now: 59357
@@ -27,7 +62,10 @@ export default [
   },
   {
     name: 'Budapest',
-    slug: 'budapest',
+    images: {
+      then: budapest_1780,
+      now: budapest_2018
+    },
     population: {
       then:  57100,
       now: 1749734
@@ -35,7 +73,10 @@ export default [
   },
   {
     name: 'Debrecen',
-    slug: 'debrecen',
+    images: {
+      then: debrecen_1780,
+      now: debrecen_2018
+    },
     population: {
       then:  28551,
       now: 202214
@@ -43,7 +84,10 @@ export default [
   },
   {
     name: 'Eger',
-    slug: 'eger',
+    images: {
+      then: eger_1780,
+      now: eger_2018
+    },
     population: {
       then:  17083,
       now: 53436
@@ -52,8 +96,8 @@ export default [
   {
     name: 'Győr',
     images: {
-      then: then_gyor,
-      now: now_gyor
+      then: gyor_1780,
+      now: gyor_2018
     },
     population: {
       then:  13421,
@@ -62,7 +106,10 @@ export default [
   },
   {
     name: 'Kaposvár',
-    slug: 'kaposvar',
+    images: {
+      then: kaposvar_1780,
+      now: kaposvar_2018
+    },
     population: {
       then:  2166,
       now: 61920
@@ -70,7 +117,10 @@ export default [
   },
   {
     name: 'Kecskemét',
-    slug: 'kecskemet',
+    images: {
+      then: kecskemet_1780,
+      now: kecskemet_2018
+    },
     population: {
       then:  22270,
       now: 110638
@@ -78,7 +128,10 @@ export default [
   },
   {
     name: 'Miskolc',
-    slug: 'miskolc',
+    images: {
+      then: miskolc_1780,
+      now: miskolc_2018
+    },
     population: {
       then:  18516,
       now: 155650
@@ -87,6 +140,10 @@ export default [
   {
     name: 'Nyíregyháza',
     slug: 'nyiregyhaza',
+    images: {
+      then: nyiregyhaza_1780,
+      now: nyiregyhaza_2018
+    },
     population: {
       then:  7163,
       now: 117121
@@ -94,7 +151,10 @@ export default [
   },
   {
     name: 'Pécs',
-    slug: 'pecs',
+    images: {
+      then: pecs_1780,
+      now: pecs_2018
+    },
     population: {
       then:  11377,
       now: 144188
@@ -102,7 +162,10 @@ export default [
   },
   {
     name: 'Salgótarján',
-    slug: 'salgotarjan',
+    images: {
+      then: salgotarjan_1780,
+      now: salgotarjan_2018
+    },
     population: {
       then:  1843,
       now: 34124
@@ -110,7 +173,10 @@ export default [
   },
   {
     name: 'Szekszárd',
-    slug: 'szekszard',
+    images: {
+      then: szekszard_1780,
+      now: szekszard_2018
+    },
     population: {
       then:  6290,
       now: 32156
@@ -118,7 +184,10 @@ export default [
   },
   {
     name: 'Székesfehérvár',
-    slug: 'szekesfehervar',
+    images: {
+      then: szekesfehervar_1780,
+      now: szekesfehervar_2018
+    },
     population: {
       then:  11816,
       now: 97382
@@ -127,8 +196,8 @@ export default [
   {
     name: 'Szolnok',
     images: {
-      then: then_szolnok,
-      now: now_szolnok
+      then: szolnok_1780,
+      now: szolnok_2018
     },
     population: {
       then:  6271,
@@ -137,7 +206,10 @@ export default [
   },
   {
     name: 'Szombathely',
-    slug: 'szombathely',
+    images: {
+      then: szombathely_1780,
+      now: szombathely_2018
+    },
     population: {
       then:  2472,
       now: 77984
@@ -145,7 +217,10 @@ export default [
   },
   {
     name: 'Tatabánya',
-    slug: 'tatabanya',
+    images: {
+      then: tatabanya_1780,
+      now: tatabanya_2018
+    },
     population: {
       then:  2564,
       now: 65663
@@ -153,7 +228,10 @@ export default [
   },
   {
     name: 'Veszprém',
-    slug: 'veszprem',
+    images: {
+      then: veszprem_1780,
+      now: veszprem_2018
+    },
     population: {
       then:  8906,
       now: 59754
@@ -161,7 +239,10 @@ export default [
   },
   {
     name: 'Zalaegerszeg',
-    slug: 'zalaegerszeg',
+    images: {
+      then: zalaegerszeg_1780,
+      now: zalaegerszeg_2018
+    },
     population: {
       then:  2881,
       now: 58154

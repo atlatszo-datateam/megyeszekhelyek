@@ -23,6 +23,7 @@ function selectCity (event) {
 
 function transitionToCity (event) {
   DOM.setStyle(cityNow, 'opacity', event.target.value)
+  DOM.setStyle(cityThen, 'opacity', 1 - event.target.value)
 }
 
 function createFigure (parent) {
