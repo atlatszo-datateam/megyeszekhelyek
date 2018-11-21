@@ -58,6 +58,10 @@ aside {
   width: 32.258%;
 }
 
+.country-map {
+  text-align: center;
+}
+
 .country-map svg {
   max-width: 800px;
 }
@@ -234,7 +238,7 @@ footer a {
 }
 
 footer img {
-  height: 30px;
+  height: 35px;
 }
 
 footer .impressum {
@@ -265,5 +269,9 @@ footer .impressum {
 
   .population-figure {
     margin-right: 5px;
+  }
+
+  footer img {
+    height: 30px;
   }
 }

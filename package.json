@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "webpack --mode development --watch",
     "prod": "webpack --mode production",
-    "watch": "npm run dev --watch"
+    "watch": "npm run dev --watch",
+    "impressum-dev": "webpack --config impressum/webpack.config.js --mode development --watch",
+    "impressum-prod": "./impressum webpack --mode production",
+    "impressum-watch": "./impressum npm run dev --watch"
   },
   "keywords": [],
   "author": "",
