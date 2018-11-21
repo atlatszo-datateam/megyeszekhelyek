@@ -58,6 +58,10 @@ aside {
   width: 32.258%;
 }
 
+.country-map svg {
+  max-width: 800px;
+}
+
 .description {
   margin-bottom: 20px;
 }
