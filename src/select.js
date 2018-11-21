@@ -57,7 +57,10 @@ function changeCity (cityName) {
     populate(populationThen, population.then)
     populate(populationNow, population.now)
     DOM.setAttribute(cityThen, 'src', `dist/${selectedCity.images.then}`)
-    DOM.setAttribute(cityNow, 'src', `dist/${selectedCity.images.now}`), 0, DOM.getStyle(cityNow, 'opacity')
+    DOM.setAttribute(cityNow, 'src', `dist/${selectedCity.images.now}`)
+    citySlider.value = 0
+    DOM.setStyle(cityThen, 'opacity', 1)
+    DOM.setStyle(cityNow, 'opacity', 0)
   }
 }
 
