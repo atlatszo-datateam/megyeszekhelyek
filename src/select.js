@@ -80,7 +80,7 @@ function hideTooltip () {
 }
 
 cityElements.forEach(city => city.addEventListener('click', selectCity))
-cityElements.forEach(city => city.addEventListener('mouseenter', showTooltip))
-cityElements.forEach(city => city.addEventListener('mouseleave', hideTooltip))
+/* cityElements.forEach(city => city.addEventListener('mouseenter', showTooltip))
+cityElements.forEach(city => city.addEventListener('mouseleave', hideTooltip)) */
 citySlider.addEventListener('input', transitionToCity)
 citySlider.addEventListener('change', transitionToCity)
