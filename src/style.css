@@ -59,11 +59,19 @@ aside {
 }
 
 .country-map {
+  position: relative;
   text-align: center;
 }
 
 .country-map svg {
   max-width: 800px;
+}
+
+.tooltip {
+  position: absolute;
+  display: none;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 .description {
@@ -99,6 +107,7 @@ aside {
 
 /* svg */
 .st3 {
+  position: relative;
   fill:#999999;
   transition: fill .3s;
   cursor: pointer;

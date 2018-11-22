@@ -11,6 +11,7 @@ const populationNowNumber = DOM.getChild(populationNow, '.population-number')
 const populationCityName = DOM.getElement('.population-city-name')
 const citySlider = DOM.getElement('.city-slider')
 const cityElements = DOM.getAllElements('.st3')
+const tooltip = DOM.getElement('.tooltip')
 
 function hideElement (element) {
   return DOM.setStyle(element, 'opacity', 0)
@@ -64,6 +65,22 @@ function changeCity (cityName) {
   }
 }
 
+function showTooltip (event) {
+  console.log('showTooltip')
+  const circle = event.target
+  
+  tooltip.innerHTML = DOM.getAttribute(circle, 'title');
+  tooltip.style.display = 'block';
+  tooltip.style.left = `${DOM.getAttribute(circle, 'cx') - 5}px`;
+  tooltip.style.top = `${DOM.getAttribute(circle, 'cy') - 15}px`;
+}
+
+function hideTooltip () {
+  console.log('hideTooltip')
+}
+
 cityElements.forEach(city => city.addEventListener('click', selectCity))
+cityElements.forEach(city => city.addEventListener('mouseenter', showTooltip))
+cityElements.forEach(city => city.addEventListener('mouseleave', hideTooltip))
 citySlider.addEventListener('input', transitionToCity)
 citySlider.addEventListener('change', transitionToCity)
