@@ -46,7 +46,10 @@
           <img src="dist/<%= require('./images/cities/szeged_1780.png') %>" class="city-then">
           <img src="dist/<%= require('./images/cities/szeged_2018.png') %>" class="city-now">
         </div>
-        <input type="range" name="city-slider" class="city-slider" min="0" max="1" step="0.01" value="0">
+        <div class="city-slider-container">
+          <p>Húzd el jobbra!</p>
+          <input type="range" name="city-slider" class="city-slider" min="0" max="1" step="0.01" value="0">
+        </div>
         <!-- <div class="city-description">
           <p>Szeged lakott területe az 1780-as években</p>
           <p>és 2018-ban</p>

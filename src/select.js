@@ -10,6 +10,7 @@ const populationNow = DOM.getElement('.population-now')
 const populationNowNumber = DOM.getChild(populationNow, '.population-number')
 const populationCityName = DOM.getElement('.population-city-name')
 const citySlider = DOM.getElement('.city-slider')
+const citySliderText = DOM.getElement('.city-slider-container p')
 const cityElements = DOM.getAllElements('.st3')
 const tooltip = DOM.getElement('.tooltip')
 
@@ -23,8 +24,15 @@ function selectCity (event) {
 }
 
 function transitionToCity (event) {
-  DOM.setStyle(cityNow, 'opacity', event.target.value)
-  DOM.setStyle(cityThen, 'opacity', 1 - event.target.value)
+  const {value} = event.target
+  if (value > 0) {
+    DOM.setStyle(citySliderText, 'opacity', 0)
+  } else {
+    DOM.setStyle(citySliderText, 'opacity', 1)
+  }
+  
+  DOM.setStyle(cityNow, 'opacity', value)
+  DOM.setStyle(cityThen, 'opacity', 1 - value)
 }
 
 function createFigure (parent) {

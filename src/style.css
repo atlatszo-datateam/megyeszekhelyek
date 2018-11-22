@@ -154,10 +154,14 @@ aside {
   opacity: 0;
 }
 
+.city-slider-container {
+  text-align: center;
+}
+
 input[type=range] {
   display: block;
   -webkit-appearance: none;
-  margin: 18px auto;
+  margin: 15px auto;
   width: 90%;
   max-width: 300px;
 }
