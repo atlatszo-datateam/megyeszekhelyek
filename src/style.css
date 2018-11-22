@@ -251,13 +251,13 @@ footer a {
 }
 
 footer img {
-  height: 35px;
+  height: 30px;
 }
 
 footer .impressum {
   position: relative;
   right: 0;
-  width: 43.75%;
+  width: 46%;
   min-width: 300px;
 }
 
