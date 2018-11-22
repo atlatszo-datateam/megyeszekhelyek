@@ -1,43 +1,79 @@
 import szeged_1780 from './images/cities/szeged_1780.png'
 import szeged_2018 from './images/cities/szeged_2018.png'
+import szeged_mobil_1780 from './images/cities/szeged_mobil_1780.png'
+import szeged_mobil_2018 from './images/cities/szeged_mobil_2018.png'
 import bekescsaba_1780 from './images/cities/bekescsaba_1780.png'
 import bekescsaba_2018 from './images/cities/bekescsaba_2018.png'
 import bekescsaba_mobil_1780 from './images/cities/bekescsaba_mobil_1780.png'
 import bekescsaba_mobil_2018 from './images/cities/bekescsaba_mobil_2018.png'
 import budapest_1780 from './images/cities/budapest_1780.png'
 import budapest_2018 from './images/cities/budapest_2018.png'
+import budapest_mobil_1780 from './images/cities/budapest_mobil_1780.png'
+import budapest_mobil_2018 from './images/cities/budapest_mobil_2018.png'
 import debrecen_1780 from './images/cities/debrecen_1780.png'
 import debrecen_2018 from './images/cities/debrecen_2018.png'
+import debrecen_mobil_1780 from './images/cities/debrecen_mobil_1780.png'
+import debrecen_mobil_2018 from './images/cities/debrecen_mobil_2018.png'
 import eger_1780 from './images/cities/eger_1780.png'
 import eger_2018 from './images/cities/eger_2018.png'
+import eger_mobil_1780 from './images/cities/eger_mobil_1780.png'
+import eger_mobil_2018 from './images/cities/eger_mobil_2018.png'
 import gyor_1780 from './images/cities/gyor_1780.png'
 import gyor_2018 from './images/cities/gyor_2018.png'
+import gyor_mobil_1780 from './images/cities/gyor_mobil_1780.png'
+import gyor_mobil_2018 from './images/cities/gyor_mobil_2018.png'
 import kaposvar_1780 from './images/cities/kaposvar_1780.png'
 import kaposvar_2018 from './images/cities/kaposvar_2018.png'
+import kaposvar_mobil_1780 from './images/cities/kaposvar_mobil_1780.png'
+import kaposvar_mobil_2018 from './images/cities/kaposvar_mobil_2018.png'
 import kecskemet_1780 from './images/cities/kecskemet_1780.png'
 import kecskemet_2018 from './images/cities/kecskemet_2018.png'
+import kecskemet_mobil_1780 from './images/cities/kecskemet_mobil_1780.png'
+import kecskemet_mobil_2018 from './images/cities/kecskemet_mobil_2018.png'
 import miskolc_1780 from './images/cities/miskolc_1780.png'
 import miskolc_2018 from './images/cities/miskolc_2018.png'
+import miskolc_mobil_1780 from './images/cities/miskolc_mobil_1780.png'
+import miskolc_mobil_2018 from './images/cities/miskolc_mobil_2018.png'
 import nyiregyhaza_1780 from './images/cities/nyiregyhaza_1780.png'
 import nyiregyhaza_2018 from './images/cities/nyiregyhaza_2018.png'
+import nyiregyhaza_mobil_1780 from './images/cities/nyiregyhaza_mobil_1780.png'
+import nyiregyhaza_mobil_2018 from './images/cities/nyiregyhaza_mobil_2018.png'
 import pecs_1780 from './images/cities/pecs_1780.png'
 import pecs_2018 from './images/cities/pecs_2018.png'
+import pecs_mobil_1780 from './images/cities/pecs_mobil_1780.png'
+import pecs_mobil_2018 from './images/cities/pecs_mobil_2018.png'
 import salgotarjan_1780 from './images/cities/salgotarjan_1780.png'
 import salgotarjan_2018 from './images/cities/salgotarjan_2018.png'
+import salgotarjan_mobil_1780 from './images/cities/salgotarjan_mobil_1780.png'
+import salgotarjan_mobil_2018 from './images/cities/salgotarjan_mobil_2018.png'
 import szekszard_1780 from './images/cities/szekszard_1780.png'
 import szekszard_2018 from './images/cities/szekszard_2018.png'
+import szekszard_mobil_1780 from './images/cities/szekszard_mobil_1780.png'
+import szekszard_mobil_2018 from './images/cities/szekszard_mobil_2018.png'
 import szekesfehervar_1780 from './images/cities/szekesfehervar_1780.png'
 import szekesfehervar_2018 from './images/cities/szekesfehervar_2018.png'
+import szekesfehervar_mobil_1780 from './images/cities/szekesfehervar_mobil_1780.png'
+import szekesfehervar_mobil_2018 from './images/cities/szekesfehervar_mobil_2018.png'
 import szolnok_1780 from './images/cities/szolnok_1780.png'
 import szolnok_2018 from './images/cities/szolnok_2018.png'
+import szolnok_mobil_1780 from './images/cities/szolnok_mobil_1780.png'
+import szolnok_mobil_2018 from './images/cities/szolnok_mobil_2018.png'
 import szombathely_1780 from './images/cities/szombathely_1780.png'
 import szombathely_2018 from './images/cities/szombathely_2018.png'
+import szombathely_mobil_1780 from './images/cities/szombathely_mobil_1780.png'
+import szombathely_mobil_2018 from './images/cities/szombathely_mobil_2018.png'
 import tatabanya_1780 from './images/cities/tatabanya_1780.png'
 import tatabanya_2018 from './images/cities/tatabanya_2018.png'
+import tatabanya_mobil_1780 from './images/cities/tatabanya_mobil_1780.png'
+import tatabanya_mobil_2018 from './images/cities/tatabanya_mobil_2018.png'
 import veszprem_1780 from './images/cities/veszprem_1780.png'
 import veszprem_2018 from './images/cities/veszprem_2018.png'
+import veszprem_mobil_1780 from './images/cities/veszprem_mobil_1780.png'
+import veszprem_mobil_2018 from './images/cities/veszprem_mobil_2018.png'
 import zalaegerszeg_1780 from './images/cities/zalaegerszeg_1780.png'
 import zalaegerszeg_2018 from './images/cities/zalaegerszeg_2018.png'
+import zalaegerszeg_mobil_1780 from './images/cities/zalaegerszeg_mobil_1780.png'
+import zalaegerszeg_mobil_2018 from './images/cities/zalaegerszeg_mobil_2018.png'
 
 const isMobile = window.innerWidth <= 1200
 
@@ -45,8 +81,8 @@ export default [
   {
     name: 'Szeged',
     images: {
-      then: szeged_1780,
-      now: szeged_2018
+      then: isMobile ? szeged_mobil_1780 : szeged_1780,
+      now: isMobile ? szeged_mobil_2018 : szeged_2018
     },
     population: {
       then:  20679,
@@ -67,8 +103,8 @@ export default [
   {
     name: 'Budapest',
     images: {
-      then: budapest_1780,
-      now: budapest_2018
+      then: isMobile ? budapest_mobil_1780 : budapest_1780,
+      now: isMobile ? budapest_mobil_2018 : budapest_2018
     },
     population: {
       then:  57100,
@@ -78,8 +114,8 @@ export default [
   {
     name: 'Debrecen',
     images: {
-      then: debrecen_1780,
-      now: debrecen_2018
+      then: isMobile ? debrecen_mobil_1780 : debrecen_1780,
+      now: isMobile ? debrecen_mobil_2018 : debrecen_2018
     },
     population: {
       then:  28551,
@@ -89,8 +125,8 @@ export default [
   {
     name: 'Eger',
     images: {
-      then: eger_1780,
-      now: eger_2018
+      then: isMobile ? eger_mobil_1780 : eger_1780,
+      now: isMobile ? eger_mobil_2018 : eger_2018
     },
     population: {
       then:  17083,
@@ -100,8 +136,8 @@ export default [
   {
     name: 'Győr',
     images: {
-      then: gyor_1780,
-      now: gyor_2018
+      then: isMobile ? gyor_mobil_1780 : gyor_1780,
+      now: isMobile ? gyor_mobil_2018 : gyor_2018
     },
     population: {
       then:  13421,
@@ -111,8 +147,8 @@ export default [
   {
     name: 'Kaposvár',
     images: {
-      then: kaposvar_1780,
-      now: kaposvar_2018
+      then: isMobile ? kaposvar_mobil_1780 : kaposvar_1780,
+      now: isMobile ? kaposvar_mobil_2018 : kaposvar_2018
     },
     population: {
       then:  2166,
@@ -122,8 +158,8 @@ export default [
   {
     name: 'Kecskemét',
     images: {
-      then: kecskemet_1780,
-      now: kecskemet_2018
+      then: isMobile ? kecskemet_mobil_1780 : kecskemet_1780,
+      now: isMobile ? kecskemet_mobil_2018 : kecskemet_2018
     },
     population: {
       then:  22270,
@@ -133,8 +169,8 @@ export default [
   {
     name: 'Miskolc',
     images: {
-      then: miskolc_1780,
-      now: miskolc_2018
+      then: isMobile ? miskolc_mobil_1780 : miskolc_1780,
+      now: isMobile ? miskolc_mobil_2018 : miskolc_2018
     },
     population: {
       then:  18516,
@@ -145,8 +181,8 @@ export default [
     name: 'Nyíregyháza',
     slug: 'nyiregyhaza',
     images: {
-      then: nyiregyhaza_1780,
-      now: nyiregyhaza_2018
+      then: isMobile ? nyiregyhaza_mobil_1780 : nyiregyhaza_1780,
+      now: isMobile ? nyiregyhaza_mobil_2018 : nyiregyhaza_2018
     },
     population: {
       then:  7163,
@@ -156,8 +192,8 @@ export default [
   {
     name: 'Pécs',
     images: {
-      then: pecs_1780,
-      now: pecs_2018
+      then: isMobile ? pecs_mobil_1780: pecs_1780,
+      now: isMobile ? pecs_mobil_2018: pecs_2018
     },
     population: {
       then:  11377,
@@ -167,8 +203,8 @@ export default [
   {
     name: 'Salgótarján',
     images: {
-      then: salgotarjan_1780,
-      now: salgotarjan_2018
+      then: isMobile ? salgotarjan_mobil_1780: salgotarjan_1780,
+      now: isMobile ? salgotarjan_mobil_2018: salgotarjan_2018
     },
     population: {
       then:  1843,
@@ -178,8 +214,8 @@ export default [
   {
     name: 'Szekszárd',
     images: {
-      then: szekszard_1780,
-      now: szekszard_2018
+      then: isMobile ? szekszard_mobil_1780 : szekszard_1780,
+      now: isMobile ? szekszard_mobil_2018: szekszard_2018
     },
     population: {
       then:  6290,
@@ -189,8 +225,8 @@ export default [
   {
     name: 'Székesfehérvár',
     images: {
-      then: szekesfehervar_1780,
-      now: szekesfehervar_2018
+      then: isMobile ? szekesfehervar_mobil_1780 : szekesfehervar_1780,
+      now: isMobile ? szekesfehervar_mobil_2018 : szekesfehervar_2018
     },
     population: {
       then:  11816,
@@ -200,8 +236,8 @@ export default [
   {
     name: 'Szolnok',
     images: {
-      then: szolnok_1780,
-      now: szolnok_2018
+      then: isMobile ? szolnok_mobil_1780 : szolnok_1780,
+      now: isMobile ? szolnok_mobil_2018 : szolnok_2018
     },
     population: {
       then:  6271,
@@ -211,8 +247,8 @@ export default [
   {
     name: 'Szombathely',
     images: {
-      then: szombathely_1780,
-      now: szombathely_2018
+      then: isMobile ? szombathely_mobil_1780 : szombathely_1780,
+      now: isMobile ? szombathely_mobil_2018 : szombathely_2018
     },
     population: {
       then:  2472,
@@ -222,8 +258,8 @@ export default [
   {
     name: 'Tatabánya',
     images: {
-      then: tatabanya_1780,
-      now: tatabanya_2018
+      then: isMobile ? tatabanya_mobil_1780 : tatabanya_1780,
+      now: isMobile ? tatabanya_mobil_2018 : tatabanya_2018
     },
     population: {
       then:  2564,
@@ -233,8 +269,8 @@ export default [
   {
     name: 'Veszprém',
     images: {
-      then: veszprem_1780,
-      now: veszprem_2018
+      then: isMobile ? veszprem_mobil_1780: veszprem_1780,
+      now: isMobile ? veszprem_mobil_2018: veszprem_2018
     },
     population: {
       then:  8906,
@@ -244,8 +280,8 @@ export default [
   {
     name: 'Zalaegerszeg',
     images: {
-      then: zalaegerszeg_1780,
-      now: zalaegerszeg_2018
+      then: isMobile ? zalaegerszeg_mobil_1780 : zalaegerszeg_1780,
+      now: isMobile ? zalaegerszeg_mobil_2018 : zalaegerszeg_2018
     },
     population: {
       then:  2881,
