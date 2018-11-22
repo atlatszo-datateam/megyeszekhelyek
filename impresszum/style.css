@@ -14,6 +14,7 @@ h3,
 
 h1 {
   margin-bottom: 20px;
+  color: black;
   font-size: 32px;
   text-align: center;
 }
@@ -60,4 +61,16 @@ img {
 .powered-by img {
   width: 120px;
   margin-left: 10px;
+}
+
+.back {
+  display: block;
+  margin: 30px 0;
+  color: black;
+  font-size: 16px;
+}
+
+.back img {
+  height: 12px;
+  width: auto;
 }
