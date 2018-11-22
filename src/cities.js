@@ -2,6 +2,8 @@ import szeged_1780 from './images/cities/szeged_1780.png'
 import szeged_2018 from './images/cities/szeged_2018.png'
 import bekescsaba_1780 from './images/cities/bekescsaba_1780.png'
 import bekescsaba_2018 from './images/cities/bekescsaba_2018.png'
+import bekescsaba_mobil_1780 from './images/cities/bekescsaba_mobil_1780.png'
+import bekescsaba_mobil_2018 from './images/cities/bekescsaba_mobil_2018.png'
 import budapest_1780 from './images/cities/budapest_1780.png'
 import budapest_2018 from './images/cities/budapest_2018.png'
 import debrecen_1780 from './images/cities/debrecen_1780.png'
@@ -37,6 +39,8 @@ import veszprem_2018 from './images/cities/veszprem_2018.png'
 import zalaegerszeg_1780 from './images/cities/zalaegerszeg_1780.png'
 import zalaegerszeg_2018 from './images/cities/zalaegerszeg_2018.png'
 
+const isMobile = window.innerWidth <= 1200
+
 export default [
   {
     name: 'Szeged',
@@ -52,8 +56,8 @@ export default [
   {
     name: 'Békéscsaba',
     images: {
-      then: bekescsaba_1780,
-      now: bekescsaba_2018
+      then: isMobile ? bekescsaba_mobil_1780 : bekescsaba_1780,
+      now: isMobile ? bekescsaba_mobil_2018 : bekescsaba_2018
     },
     population: {
       then:  9680,
