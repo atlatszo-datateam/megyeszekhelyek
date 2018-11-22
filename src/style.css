@@ -257,8 +257,6 @@ footer img {
 footer .impressum {
   position: relative;
   right: 0;
-  width: 46%;
-  min-width: 300px;
 }
 
 @media (max-width: 1200px) {
