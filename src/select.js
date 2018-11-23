@@ -12,7 +12,6 @@ const populationCityName = DOM.getElement('.population-city-name')
 const citySlider = DOM.getElement('.city-slider')
 const citySliderText = DOM.getElement('.city-slider-container p')
 const cityElements = DOM.getAllElements('.st3')
-const tooltip = DOM.getElement('.tooltip')
 
 function hideElement (element) {
   return DOM.setStyle(element, 'opacity', 0)
@@ -76,3 +75,11 @@ function changeCity (cityName) {
 cityElements.forEach(city => city.addEventListener('click', selectCity))
 citySlider.addEventListener('input', transitionToCity)
 citySlider.addEventListener('change', transitionToCity)
+
+const isMobile = window.innerWidth <= 1200
+
+if (isMobile) {
+  const selectedCity = cities.find(city => city.name === 'Budapest')
+  DOM.setAttribute(cityThen, 'src', `dist/${selectedCity.images.then}`)
+  DOM.setAttribute(cityNow, 'src', `dist/${selectedCity.images.now}`)
+}
